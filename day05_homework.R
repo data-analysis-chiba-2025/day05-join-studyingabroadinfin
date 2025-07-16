@@ -1,6 +1,6 @@
 # DAY 5 HOMEWORK
 #
-# Name:Yuto 
+# Name:Yuto Yamada
 
 # NOTE: In the text below, backticks ``
 # are used to indicate code. For example, `library(tidyverse)`
