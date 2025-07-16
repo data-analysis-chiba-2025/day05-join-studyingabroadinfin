@@ -12,7 +12,7 @@
 # contains data for each airplane such as manufacturer, model, etc.
 #
 # Join the `planes` dataframe to the `flights` dataframe, keeping all rows in
-# `flights`. Save the result as answer_1
+# `flights`. Save the result as answer_1<- left_join(flights, planes, by="talinum")
 #
 # HINT: the `tailnum` column uniquely identifies each airplane.
 
